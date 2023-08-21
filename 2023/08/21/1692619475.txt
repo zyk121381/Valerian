@@ -1,3 +1,0 @@
-[note-ico type="ico pink flat" ico=" note-icon "]<font size=4.5 color=purple>Q：</font>
-<font size=4.5>A：</font>[/note-ico]
-
